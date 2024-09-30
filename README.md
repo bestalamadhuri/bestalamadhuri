@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm BESTALA MADHURI</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://iconscout.com/lottie-animation/girl-developer-developed-code-7136180">
+
 
 
 - 🌱 I’m currently learning **Adv java, Javascript**
 
 - 📫 How to reach me **madhuribestala@gmail.com**
 
-- 📄 Know about my experiences [MADHURI RESUME.pdf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
