@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <title>Sign up form</title>
+     <link rel="icon" href="HTML.png">
+</head>
+<body>
+    <h2> <center>Course registration form</center></h2>
+ <fieldset>
+    <legend>Personal details</legend>
+    <form action="action.html">
+        <table>
+            <tr>
+                <td><label for=""> First Name</label></td>
+                <td><input type="text" required placeholder="Ex:Madhuri" name="fn" id=""><br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Sur Name</label></td>
+                <td><input type="text" required name="sn" id=""><br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Mobile Number</label></td>
+                <td><input type="number" required placeholder="Ex: 7815919999" name="Mobile" id=""><br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Email</label></td>
+                <td><input type="email"  required placeholder="Ex:mad@gmail.com" name="mail" id=""><br></td>
+            </tr>
+            <tr>
+                <td> <label for=""> Password</label></td>
+                <td><input type="password"  required name="" id=""><br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Confirm password</label></td>
+                <td><input type="password" required name="" id=""><br></td>
+            </tr>
+            <tr>
+                <td> <label for=""> DOB</label></td>
+                <td><input type="date"required name="date" id=""><br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Gender</label></td>
+                <td> <input type="radio" name="gender" id="Male">Male
+                <input type="radio" name="gender" id="Female">Female
+                <input type="radio" name="gender" id="Custom">Custom</td><br>
+            </tr>
+            <tr> 
+                <td><label for=""> Select counry</label></td>
+                <td><select name="Country" id="">
+                <option value="India">India</option>
+                <option value="UK">Uk</option>
+            </select> <br></td>
+            </tr>
+            <tr>
+                <td><label for=""> Upload pictures</label></td>
+                <td><input type="file" name="fILE" id=""><br></td>
+            </tr>
+        </table>
+        <br>
+        <input type="reset" name="reset" id="">
+    </fieldset>
+    
+    <fieldset>
+    <legend>Course Details</legend>
+        <label for="">Select course</label><br>
+    <select name="course" id="">
+        <option value="python">Python full stack</option>
+        <option value="java">Java full stack</option>
+    </select><br>
+
+    <label for="">Delivery Mode</label>
+    <input type="radio" name="delivery" id="online">ONLINE
+    <input type="radio" name="delivery" id="offline">OFFLINE
+    <br>
+    <label for="">Comments</label><br>
+    <textarea name="comments" id="" cols="30" rows="5"></textarea>
+    </fieldset><br>
+    <input type="submit" name="" id="">
+    <button> <a href="HTML.png">click here to view photo</a></button>
+    <button><a href="BESTALA MADHURI.pdf">click here to download pdf</a></button>
+</form>
+</body>
+</html>
