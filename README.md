@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm BESTALA MADHURI</h1>
-<img align="right" style="height: 350px;" src="coding.avif" alt="">
+<img align="center" style="height: 250px;" src="https://th.bing.com/th/id/OIP.fAeqzMUrnKi3h_D0tKfjUgHaFc?rs=1&pid=ImgDetMain" alt="">
 <h2 align="center">A passionate software developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestalamadhuri&label=Profile%20views&color=0e75b6&style=flat" alt="bestalamadhuri" /> </p>
