@@ -1,3 +1,4 @@
+<img align="right" style="height: 350px;" src="coding.avif" alt="">
 <h1 align="center">Hi 👋, I'm BESTALA MADHURI</h1>
 <h2 align="center">A passionate software developer from India</h2>
 
