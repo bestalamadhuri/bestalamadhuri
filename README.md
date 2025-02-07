@@ -10,7 +10,6 @@ Welcome to my GitHub profile! Here's a bit more about me:
 - 🎓 **Education**: I have a background in Engineering.
 - 🚩 **Current Learning**: I'm currently advancing my Full-stack development capabilities by integrating emerging technologies into personal projects. 
 - 🔭 **Interests**: I'm interested in creating new and innovative projects, and learning about things I don't know yet.
-- 🌐 **Check and Reach me at**: https://pradeeparivazhaganportfolio.vercel.app/
 
 ## </> Languages
 
