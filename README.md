@@ -2,16 +2,14 @@
 
 **Full Stack Web Developer** | **Passionate about Technology**
 
-![Profile Views](https://komarev.com/ghpvc/?username=PradeepArivazhagan&color=green)
-![Follwers](https://img.shields.io/github/followers/PradeepArivazhagan?label=Followers&style=social)
 
 Welcome to my GitHub profile! Here's a bit more about me:
 
 ## 🧑 About Me
 
 - 🎓 **Education**: I have a background in Engineering.
-- 🚩 **Current Learning**: I'm enhancing my Full-stack development skills with advanced technologies through the Nxt Wave program.
-- 🔭 **Interests**: Creating innovative solutions through Web technology. I am also interested in Editing, Graphic Design, 3D Modeling and More...
+- 🚩 **Current Learning**: I'm currently advancing my Full-stack development capabilities by integrating emerging technologies into personal projects. 
+- 🔭 **Interests**: I'm interested in creating new and innovative projects, and learning about things I don't know yet.
 - 🌐 **Check and Reach me at**: https://pradeeparivazhaganportfolio.vercel.app/
 
 ## </> Languages
