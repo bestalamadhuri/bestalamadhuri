@@ -13,9 +13,8 @@ Welcome to my GitHub profile! Here's a bit more about me:
 
 ## </> Languages
 
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="expressjs"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img width="48" height="48" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="tailwind css"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="Vite"/>
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="Vite"/> 
 
 ## 🛠️ Tools and Software
 
