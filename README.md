@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a bit more about me:
 ## </> Languages
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="Vite"/> 
+
 
 ## 🛠️ Tools and Software
 
