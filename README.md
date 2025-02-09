@@ -12,10 +12,10 @@ Welcome to my GitHub profile! Here's a bit more about me:
 
 ## </> Languages
 
-<img height="55" width="55" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="55" width="55" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt=""> 
+<img height="55" width="55" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="55" width="55" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="55" width="55" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt="">
 
 ## 🛠️ Tools and Software
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> <img width="48" height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1CLK7ijKDV1QiPsBsAKkaSkKx0QWAec8Tg&s" alt=""/>  <img width="48" height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiwHVadbFFmG0ug7OxjOBcfvWirxJ1j0KfA&s" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> <img width="48" height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1CLK7ijKDV1QiPsBsAKkaSkKx0QWAec8Tg&s" alt=""/> <img  height="48" width="48" src="https://www.cdnlogo.com/logos/e/57/eclipse.svg" alt="">
 
 ## 🤝 Connect with Me
 
