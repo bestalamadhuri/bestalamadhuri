@@ -2,7 +2,6 @@
 
 *Full Stack Web Developer* | *Passionate about Technology*
 
-
 Welcome to my GitHub profile! Here's a bit more about me:
 
 ## 🧑 About Me
