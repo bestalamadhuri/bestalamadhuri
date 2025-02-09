@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here's a bit more about me:
 ## 🤝 Connect with Me
 
 <p align="center">
-    <a href="www.linkedin.com/in/bestalamadhuri"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="www.linkedin.com/in/bestalamadhuri"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## ✨ Fun Fact
